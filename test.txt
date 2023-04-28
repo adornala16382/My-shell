@@ -1,0 +1,27 @@
+echo hi
+ls
+nonExistentCommand
+pwd
+cd cdTest
+cd nonExistentDirectory
+pwd
+ls *.txt
+touch z*.c
+cd ..
+pwd
+ls */*.c
+echo test1 | foo
+cat *Write.c | foo
+ls>file1.txt
+foo<file1.txt
+chmod 404 noWrite.c
+bar WRITING > noWrite.c
+chmod 664 noWrite.c
+echo testing | foo>file3.txt
+foo < noWrite.c | foo>newFile.txt
+foo<noWrite.c|baz *.txt>file4.txt
+cd
+pwd
+cd nonExistentDirectory/~
+pwd
+exit

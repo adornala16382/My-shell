@@ -1,0 +1,3 @@
+[README.txt][file1.txt][file3.txt][file4.txt][newFile.txt][noWrite.txt][test.txt]
+BAZ: You entered: /common/home/ad1496/214/mysh
+
